@@ -29,4 +29,33 @@ public class ClientTest {
         logger = factory.createLogger();
         logger.writeLog();
     }
+
+    /**
+     * 测试抽象工厂模式
+     */
+    @Test
+    public void clientTestV3(){
+        SkinFactory factory;
+        Button bt;
+        TextField tf;
+        ComboBox cb;
+
+        factory = new SpringSkinFactory();
+        bt = factory.createButton();
+        tf = factory.createTextField();
+        cb = factory.createComboBox();
+        bt.display();
+        tf.display();
+        cb.display();
+
+        System.out.println("=========================");
+
+        factory = new SummerSkinFactory();
+        bt = factory.createButton();
+        tf = factory.createTextField();
+        cb = factory.createComboBox();
+        bt.display();
+        tf.display();
+        cb.display();
+    }
 }
