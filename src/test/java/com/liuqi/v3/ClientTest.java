@@ -13,4 +13,20 @@ public class ClientTest {
         a.methodSame();
         a.methodDiff();
     }
+
+    /**
+     * 测试工厂方法模式
+     */
+    @Test
+    public void clientTestV2(){
+        LoggerFactory factory = new DatabaseLoggerFactory();
+        Logger logger = factory.createLogger();
+        logger.writeLog();
+
+        System.out.println("=========================");
+
+        factory = new FileLoggerFactory();
+        logger = factory.createLogger();
+        logger.writeLog();
+    }
 }
