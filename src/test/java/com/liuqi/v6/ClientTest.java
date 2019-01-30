@@ -39,4 +39,10 @@ public class ClientTest {
             System.out.println("没有找到成绩92。");
         }
     }
+
+    @Test
+    public void clientTestV2(){
+        HomeTheaterFacade homeTheaterFacade = new HomeTheaterFacade();
+        homeTheaterFacade.watchMovie("红海行动");
+    }
 }

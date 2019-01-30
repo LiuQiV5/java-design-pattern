@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e6b9856-819e-455f-a8b3-95bd518bae06" name="Default Changelist" comment="设计模式之命令模式">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8e6b9856-819e-455f-a8b3-95bd518bae06" name="Default Changelist" comment="设计模式之适配器模式">
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/liuqi/v6/ClientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/liuqi/v6/ClientTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -50,47 +50,74 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ClientTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HomeTheaterFacade.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/liuqi/v6/HomeTheaterFacade.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClientTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/liuqi/v6/ClientTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            <state relative-caret-position="287">
+              <caret line="43" column="31" lean-forward="true" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ScoreOperation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/liuqi/v6/ScoreOperation.java">
+      <file leaf-file-name="DvdPlayer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/liuqi/v6/DvdPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+            <state relative-caret-position="75">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+              <folding>
+                <element signature="e#88#89#0" expanded="true" />
+                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/liuqi/v6/QuickSort.java">
+      <file leaf-file-name="Screen.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/liuqi/v6/Screen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-250">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            <state relative-caret-position="275">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#93#94#0" expanded="true" />
+                <element signature="e#114#115#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinarySearch.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/liuqi/v6/BinarySearch.java">
+      <file leaf-file-name="Popcorn.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/liuqi/v6/Popcorn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-88">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="250">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#93#94#0" expanded="true" />
+                <element signature="e#114#115#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OperationAdapter.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/liuqi/v6/OperationAdapter.java">
+      <file leaf-file-name="Volume.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/liuqi/v6/Volume.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+            <state relative-caret-position="200">
+              <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+              <folding>
+                <element signature="e#96#97#0" expanded="true" />
+                <element signature="e#117#118#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -130,12 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/liuqi/v1/Observer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liuqi/v1/AllyControlCenter.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/liuqi/v1/ClientTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liuqi/v1/Player.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liuqi/v2/Component.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liuqi/v2/Window.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liuqi/v2/TextBox.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liuqi/v2/ListBox.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liuqi/v2/ComponentDecorator.java" />
@@ -179,8 +200,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/liuqi/v6/ScoreOperation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liuqi/v6/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liuqi/v6/BinarySearch.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/liuqi/v6/ClientTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liuqi/v6/OperationAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liuqi/v6/FileReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liuqi/v6/DvdPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liuqi/v6/Screen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liuqi/v6/Volume.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liuqi/v6/Popcorn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liuqi/v6/HomeTheaterFacade.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/liuqi/v6/ClientTest.java" />
       </list>
     </option>
   </component>
@@ -319,7 +346,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ClientTest.clientTestV1 (2)">
+  <component name="RunManager" selected="JUnit.ClientTest.clientTestV2 (1)">
     <configuration name="ClientTest.clientTestV1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-design-pattern" />
       <extension name="coverage">
@@ -366,18 +393,18 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ClientTest.clientTestV2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ClientTest.clientTestV2 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.liuqi.v3.*" />
+          <option name="PATTERN" value="com.liuqi.v6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.liuqi.v3" />
-      <option name="MAIN_CLASS_NAME" value="com.liuqi.v3.ClientTest" />
+      <option name="PACKAGE_NAME" value="com.liuqi.v6" />
+      <option name="MAIN_CLASS_NAME" value="com.liuqi.v6.ClientTest" />
       <option name="METHOD_NAME" value="clientTestV2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
@@ -436,19 +463,19 @@
       <patterns />
     </configuration>
     <list>
-      <item itemvalue="JUnit.ClientTest.clientTestV2" />
       <item itemvalue="JUnit.ClientTest.clientTestV3" />
       <item itemvalue="JUnit.ClientTest.clientTestV1 (1)" />
       <item itemvalue="JUnit.clientTest.clientTestV1" />
       <item itemvalue="JUnit.ClientTest.clientTestV1 (2)" />
+      <item itemvalue="JUnit.ClientTest.clientTestV2 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ClientTest.clientTestV2 (1)" />
         <item itemvalue="JUnit.ClientTest.clientTestV1 (2)" />
         <item itemvalue="JUnit.clientTest.clientTestV1" />
         <item itemvalue="JUnit.ClientTest.clientTestV1 (1)" />
         <item itemvalue="JUnit.ClientTest.clientTestV3" />
-        <item itemvalue="JUnit.ClientTest.clientTestV2" />
       </list>
     </recent_temporary>
   </component>
@@ -466,7 +493,7 @@
       <workItem from="1548636493118" duration="54000" />
       <workItem from="1548636563134" duration="8755000" />
       <workItem from="1548720471179" duration="8826000" />
-      <workItem from="1548807202249" duration="1664000" />
+      <workItem from="1548807202249" duration="3809000" />
     </task>
     <task id="LOCAL-00001" summary="这是一个简单工厂方法实现，不属于设计模式">
       <created>1548655041982</created>
@@ -503,13 +530,17 @@
       <option name="project" value="LOCAL" />
       <updated>1548750760475</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="设计模式之适配器模式">
+      <created>1548831647192</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1548831647192</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ClientTest_clientV1Test - 2019.01.27 at 11h 25m 52s.xml">
-      <configuration name="ClientTest.clientV1Test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ClientTest_clientV2Test - 2019.01.27 at 21h 07m 12s.xml">
       <configuration name="ClientTest.clientV2Test" configurationId="JUnit" />
     </history-entry>
@@ -537,9 +568,12 @@
     <history-entry file="ClientTest_clientTestV1_(2) - 2019.01.30 at 14h 58m 34s.xml">
       <configuration name="ClientTest.clientTestV1 (2)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ClientTest_clientTestV2_(1) - 2019.01.30 at 16h 38m 48s.xml">
+      <configuration name="ClientTest.clientTestV2 (1)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26415000" />
+    <option name="totallyTimeSpent" value="28560000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -560,11 +594,11 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50319827" side_tool="true" visible="true" weight="0.3066089" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50319827" side_tool="true" visible="true" weight="0.37703142" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49733475" weight="0.29144096" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4968017" visible="true" weight="0.3066089" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4968017" visible="true" weight="0.37703142" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4978678" weight="0.32827735" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -623,51 +657,10 @@
     <MESSAGE value="设计模式之工厂模式（抽象工厂模式）" />
     <MESSAGE value="设计模式之单例模式" />
     <MESSAGE value="设计模式之命令模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="设计模式之命令模式" />
+    <MESSAGE value="设计模式之适配器模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="设计模式之适配器模式" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/com/sun/org/apache/xalan/internal/xsltc/trax/TransformerHandlerImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10710">
-          <caret line="53" column="35" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/com/sun/org/apache/xalan/internal/xsltc/trax/SmartTransformerFactoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="671">
-          <caret line="369" column="23" lean-forward="true" selection-start-line="369" selection-start-column="11" selection-end-line="369" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/xml/transform/TransformerFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="43" column="35" lean-forward="true" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuqi/v3/SpringSkinFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuqi/v3/SummerSkinFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuqi/v3/SkinFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/liuqi/v3/ClientTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -715,6 +708,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -743,6 +740,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2400">
           <caret line="43" column="45" lean-forward="true" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+          <folding>
+            <element signature="e#11566#11567#0" expanded="true" />
+            <element signature="e#11597#11598#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1026,17 +1027,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/liuqi/v6/ClientTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuqi/v6/FileReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        <state relative-caret-position="300">
+          <caret line="12" selection-start-line="12" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/liuqi/v6/OperationAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        <state relative-caret-position="400">
+          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuqi/v6/DvdPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding>
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuqi/v6/Volume.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuqi/v6/Screen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuqi/v6/Popcorn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuqi/v6/HomeTheaterFacade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/liuqi/v6/ClientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="43" column="31" lean-forward="true" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
         </state>
       </provider>
     </entry>
